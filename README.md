@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Sushant
 
 <!--
 **sushantvantimar/sushantvantimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Languages & Frameworks**
+![Python]..(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
